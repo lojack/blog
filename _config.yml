@@ -1,3 +1,13 @@
 markdown: rdiscount
 pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
 
+name: Robert Clark
+url: http://rclark.info
+description: A fantastic blog that is fantastic.
+twitter: lojak
+github: lojack
+gravatar_url: https://si0.twimg.com/profile_images/1766868640/twitter.jpg
