@@ -5,7 +5,7 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: Robert Clark
+name: Rob Clark
 url: http://rclark.info
 description: A fantastic blog that is fantastic.
 twitter: lojak
