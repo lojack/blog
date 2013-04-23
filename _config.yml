@@ -5,9 +5,9 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: Robert Clark
+name: Rob Clark
 url: http://rclark.info
 description: A fantastic blog that is fantastic.
 twitter: lojak
 github: lojack
-gravatar_url: https://si0.twimg.com/profile_images/1766868640/twitter.jpg
+gravatar_url: http://www.gravatar.com/avatar/6b330538a13e9eca147322812cbdf3c7.png
